@@ -12,7 +12,7 @@ import Myservices from './services';
 function TypewriterTest() {
 
 let [text] = useTypewriter({
-    words: ['Developer','Designer','Photographer','Video Editor','Wordpress Developer','Team Worker'],
+    words: ['Developer','Designer','Photographer','Video Editor','Wordpress Developer','Team Co-Ordinator'],
     loop: {},
     typeSpeed: 120,
     deleteSpeed : 80,
